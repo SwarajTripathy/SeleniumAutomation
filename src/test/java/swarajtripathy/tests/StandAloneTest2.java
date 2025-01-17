@@ -21,6 +21,8 @@ import org.testng.annotations.DataProvider;
 import org.testng.annotations.Test;
 
 public class StandAloneTest2 extends BaseTest {
+	
+	//Adding comment
 
 	String productName = "IPHONE 13 PRO";
 
