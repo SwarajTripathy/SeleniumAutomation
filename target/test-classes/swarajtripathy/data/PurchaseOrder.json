@@ -1,0 +1,14 @@
+[
+	{
+		"email" : "swaraj@gmail.com",
+		"password": "Swaraj@123",
+		"productName": "IPHONE 13 PRO"
+	},
+	
+	{
+		"email" : "john.snow@gmail.com",
+		"password": "Welcome@123",
+		"productName": "LG Refrigerator"		
+	}
+	
+]
